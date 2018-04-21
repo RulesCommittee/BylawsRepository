@@ -373,6 +373,8 @@
       - (i) The National or International affiliation of an existing or the prospective club will have no bearing in determining duality of purpose between groups. All clubs, whether or not they have non-Brandeis affiliations, will all be treated equally regarding duality of purpose. Unique national or international affiliations shall not solely warrant exemption from Duality of Purpose.
 
       - (ii) Guidelines for accommodating the regulations on Duality of Purpose will be restricted to clubs' impact on the Brandeis University campus only, and only those on-campus impacts will be relevant in evaluating purpose.
+      
+      - (iii) Groups shall not be deemed to have duality of purpose with one another unless the total set of interests, initiatives, themes, or activities respectively supported by each through their operations, impact, and student appeal are equivalent.
 
     - (d) Not discriminate against members on the basis of race, color, ancestry, religious creed, gender identity and expression, national or ethnic origin, sex, sexual orientation, age, genetic information, disability, political affiliation and ideology, veteran status or any other category protected by law.
 
