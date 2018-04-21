@@ -350,11 +350,13 @@
 
   - **SECTION 1.** Every club is either probationary or established; unchartered or chartered. The Senate shall, by a supermajority vote of two-thirds, have the discretionary power to accredit probationary clubs.
 
-    - (a) A probationary term shall be defined as 14 academic weeks, which is approximately one semester.
+    - (a) A probationary term shall be defined as a 12 academic weeks period for new clubs to develop and prove their ability to pursue or fulfill their purpose and to function well as an organization.
 
     - (b) A probationary club is a club that has been accredited by the Senate, and is yet to be established or dissolved.
 
     - (c) An established club is one that has been established by the Club Support Committee or by the Senate.
+    
+      - (i) Established clubs shall be guarenteed continued existance in their current status pending the completion of the annual renual process, provided that the club is not deemed to be in violation of it purpose, its constitution, Club Support regulations, the Student Union Constitution, or these Bylaws.
 
   - **SECTION 2.** In order to be eligible for accreditation, a prospective club must:
 
@@ -368,7 +370,7 @@
 
     - (b) Not be a fraternity or sorority.
 
-    - (c) Not duplicate the purpose or goals of an existing club, academic department, or other campus resource ("organization"). If the prospective club’s operations, impact, and student appeal would substantively be the same as that of an existing organization, then it should not be accredited. A group has duality of purpose if it has duality of operations, impact, and appeal. Collectively, this standard is called Duality of Purpose.
+    - (c) Not duplicate the purpose or goals of an existing club. If the prospective club’s operations, impact, and student appeal would substantively be the same as that of an existing club, then it should not be accredited. A group has duality of purpose if it has duality of operations, impact, and appeal. Collectively, this standard is called Duality of Purpose.
 
       - (i) The National or International affiliation of an existing or the prospective club will have no bearing in determining duality of purpose between groups. All clubs, whether or not they have non-Brandeis affiliations, will all be treated equally regarding duality of purpose. Unique national or international affiliations shall not solely warrant exemption from Duality of Purpose.
 
@@ -408,7 +410,7 @@
 
     - (g) After meeting all of the other requirements listed in these bylaws, prospective clubs must present their case for accreditation in front of the Senate, and must receive the Senate's approval, in order to become a probationary club. Representatives of the prospective club must step outside while the Senate votes on its accreditation as a probationary club.
 
-  - **SECTION 4.** Any club which excludes Union members from joining or participating, whether by an audition process or by any other means, is ineligible to become or remain a chartered club; otherwise, clubs shall have the right to become or remain chartered clubs, so long as they remain accredited.
+  - **SECTION 4.** Any club which excludes members of the undergraduate student body from joining or participating, whether by an audition process or by any other means, is ineligible to become or remain a chartered club; furthermore, any club which duplicates the purpose or goals of an existing academic department or other campus resource in terms of operations, impact, and student appeal is ineligible to become or remain a chartered club; otherwise, clubs shall have the right to become or remain chartered clubs, so long as they remain accredited.
 
     - (a) As part of granting accreditation to a prospective club, the Senate much determine and specify whether a club is to become a chartered probationary club or an unchartered probationary one.
 
@@ -421,8 +423,6 @@
   - **SECTION 5.** The privileges of all accredited clubs shall include:
 
     - (a) Use of University facilities and Union resources.
-
-    - (b) Access to funding at the Allocation Board's discretion, provided that the club is not exclusionary or otherwise prohibited from receiving funding.
 
   - **SECTION 6.** Clubs are forbidden from doing the following:
 
@@ -462,7 +462,7 @@
 
     - (a) Establish the club. The Club Support Committee shall notify the Senate of this decision.
 
-    - (b) Provide the club another probationary term of 14 weeks after agreeing upon a new semester plan. The Club Support Committee shall notify the senate of this decision.
+    - (b) Provide the club another probationary term of 12 weeks after agreeing upon a new semester plan. The Club Support Committee shall notify the senate of this decision.
 
     - (c) Request that the Senate votes to revoke accreditation for the club.
 
@@ -478,7 +478,7 @@
 
     - (d) If the club is probationary, and if the Club Support Committee requests a vote on the club's dissolution. This may be appealed to the Union Judiciary.
 
-  - **SECTION 12.** There shall exist Student Production Services (SPS). SPS shall provide Brandeis University and Student Union-Accredited Clubs with lighting and sound equipment and the technicians required to operate said equipment at any event upon request by the event or club, based on staff and equipment availability. SPS shall be a free service to all undergraduate clubs of Brandeis University. SPS employed members are salaried by Brandeis University through the Department of Student Activities and the purchasing budget is provided by the Student Union Financial Board.
+  - **SECTION 12.** There shall exist Student Production Services (SPS). SPS shall provide Brandeis University and Student Union-Accredited Clubs with lighting and sound equipment and the technicians required to operate said equipment at any event upon request by the event or club, based on staff and equipment availability. SPS shall be a free service to all undergraduate clubs of Brandeis University. SPS employed members are salaried by Brandeis University through the Department of Student Activities and the purchasing budget is provided by the Student Union Allocations Board.
 
     - (a) Coordinator
 
