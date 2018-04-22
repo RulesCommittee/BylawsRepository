@@ -356,7 +356,7 @@
 
     - (c) An established club is one that has been established by the Club Support Committee or by the Senate.
     
-      - (i) Established clubs shall be guarenteed continued existance in their current status pending the completion of the annual renual process, provided that the club is not deemed to be in violation of it purpose, its constitution, Club Support regulations, the Student Union Constitution, or these Bylaws.
+      - (i) Established clubs shall be guaranteed continued existence in their current status pending the completion of the annual renewal process, provided that the club is not deemed to be in violation of it purpose, its constitution, Club Support regulations, the Student Union Constitution, or these Bylaws.
 
   - **SECTION 2.** In order to be eligible for accreditation, a prospective club must:
 
