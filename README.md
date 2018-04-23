@@ -454,7 +454,7 @@
 
     - (b) All officers must be students enrolled in the undergraduate program or the Myra Kraft Transitional Year Program at Brandeis University.
 
-    - (c) All Officers must complete Bystander Training once annually as recorded by the Office of Prevention Services.
+    - (c) All Officers must complete Bystander Training or a Diversity, Equity, and Inclusion Training once annually as recorded by the Office of Prevention Services and the Office of Diversity, Equity, & Inclusion. Failure to comply will result in club de-chartering and de-recognition with the exception of the 2018-2019 academic year.
 
   - **SECTION 9.** Clubs may, with the approval of the Senate, change their names and constitutional purposes. The Chair of the Club Support Committee shall inform the Department of Student Activities of any changes to club names.
 
