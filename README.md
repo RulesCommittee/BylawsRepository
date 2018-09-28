@@ -1,6 +1,6 @@
 # ❧ ARTICLE I: SUPREMACY
 
-  - **SECTION 1.** The Bylaws of the Brandeis University Undergraduate Student Union Government (hereinafter referred to as "Bylaws") shall be enacted and enforced in accordance with the guidelines set forth in the Student Union Constitution and these Bylaws.
+  - **SECTION 1.** The Bylaws of the Brandeis University Undergraduate Student Union Government (hereinafter referred to as "Bylaws") shall be enacted and enforced in accordance with the guidelines set forth in the Student Union Constitution and 
 
 <br>
 
