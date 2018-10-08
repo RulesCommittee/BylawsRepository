@@ -266,7 +266,7 @@
 
   - **SECTION 6.** The Bylaws Committee's purpose is to enhance the efficiency of the Senate and to streamline the legislative process. The Committee will strive to assist people bringing business before the Senate and on how to adhere to the rules and guidelines set forth in the Union Constitution and these Bylaws. This committee shall act in accordance with the following:
 
-    - (a) The Committee shall only be open to members of the Senate. There shall be no Non-Senate Chair.
+    - (a) There shall be no Non-Senate Chair.
 
     - (b) Only members of the Union Senate are permitted to attend Committee meetings. At the discretion of the Chair or the majority of present Committee members, those who are not Student Union Senators may attend.
 
