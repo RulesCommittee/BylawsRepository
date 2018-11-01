@@ -140,11 +140,13 @@
 
     - (c) The Senate shall have the power to enter executive session by majority vote.
 
-      - (i) Unless mentioned in these Bylaws, no business may be voted upon in executive session.
+      - (i) An executive session shall consist of only the Senate and other individuals that it requests.
+      
+      - (ii) Unless mentioned in these Bylaws, no business may be voted upon in executive session.
 
-      - (ii) The Senate may, by majority vote, move out of executive session.
+      - (iii) The Senate may, by majority vote, move out of executive session.
 
-      - (iii) Executive session may be recorded but not broadcast.
+      - (iv) Executive session may be recorded but not broadcast.
 
   - **SECTION 5.** Proxy votes can only be accepted for excused absences by the President of the Senate.
 
