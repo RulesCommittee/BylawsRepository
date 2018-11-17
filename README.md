@@ -256,10 +256,6 @@
 
     - (a) The Committee shall organize and run transportation services to high-volume train stations and airports preceding breaks where large portions of the student body are expected to be traveling.
 
-    - (b) If the Senate determines that an emergency exists, it may, by a 2/3 vote suspend this rule and bring legislation to the floor.
-
-    - (c) Except as stated elsewhere in these Bylaws, only the Union President and members of the Union Senate may submit legislation to the Senate.
-
   - **SECTION 5.** The Social Justice and Diversity Committee shall be composed of Senators and other interested students who will work together in the interest of social justice and diversity. The Committee shall investigate, publicize, and act upon student concerns. It shall serve to reflect and represent students' convictions to one another, the administration, and the community at large in expression of our University's sense of and commitment to Social Justice. The committee shall also promote institutional change, and work to encourage interaction and connections among the different groups that make up the student body. Through these efforts, the Committee will work to give underrepresented groups a voice on campus, and to help organize efforts improving coexistence, civil rights, and civil liberties at Brandeis.
 
     - (a) The Committee shall undertake at least one major project per semester.
