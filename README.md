@@ -106,7 +106,7 @@
 
     - (a) The duties of the Executive Senator shall include:
 
-      - (i) Preparing the agenda for Senate meetings and posting it to the Union Website at least two days before the Senate meeting.
+      - (i) Preparing the agenda for Senate meetings.
 
       - (ii) To appoint a Clerk of the Senate, with duties as defined by the Executive Senator.
 
