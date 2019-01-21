@@ -182,7 +182,7 @@
 
     - (i) Senator Reports
 
-    - (j) Open Forum
+    - (j) Public Comment and Open Forum
 
 <br>
 
