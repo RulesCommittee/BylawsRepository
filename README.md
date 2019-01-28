@@ -202,7 +202,7 @@
 
     - (f) Sustainability Committee
 
-    - (g) COW-G Committee
+    - (g) Campus Operations Committee
 
     - (h) Health and Safety Committee
 
@@ -300,9 +300,9 @@
 
     - (a) The Committee shall work with relevant faculty, staff, and Union Organizations in order to promote environmentalism and sustainability on campus.
 
-  - **SECTION 10.** The COWG Committee shall be responsible for working with COWG (Campus Operations Working Group) and University Services to improve Brandeis Facilities.
+  - **SECTION 10.** The Campus Operations Committee shall be responsible for working with University Services and the Vice President for Campus Operations, along with Public Safety to promote a safe, modern, and comfortable campus environment for all Brandeis students. 
 
-    - (a) The Committee shall work with University Administrators and advocate for improvements to campus facilities.
+    - (a) The Committee shall work with University Administrators and advocate for improvements to campus facilities and operations.
 
     - (b) All Quad Senators are required to serve on the committee.
 
