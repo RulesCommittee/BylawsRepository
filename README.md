@@ -643,7 +643,13 @@
     - (e) The candidate(s) with the highest amount of votes that align with the number of unfilled spots will be elected as Community Senator(s).
 
     - (f) The number of spots open for Community Senators is equal to the number of unfilled quad senator positions.
+    
+    - **SECTION 9.** Election of Previously Recalled, Impeached, or Removed Union Members:
 
+    - (a) No individual who has been recalled, impeached, or removed from office for any reason shall be eligible to campaign for or be appointed to any Union position for a minimum of one (1) academic year.
+
+    - (b) No individual who has resigned from office after a petition mandating a recall vote for that individual has been certified by the Secretary (as per Article X, Section 1, Clause 2 of the Constitution) or after the Senate has officially announced a motion to impeach or remove that individual at a meeting (as per Article X, Section 2, Clause 2 and Section 3 of the Constitution) shall be eligible to campaign for or be appointed to any Union position for a minimum of one (1) academic year.
+    
 <br>
 
 # ❧ ARTICLE XI: SPECIAL UNION PROGRAMS
