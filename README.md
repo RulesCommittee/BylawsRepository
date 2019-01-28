@@ -194,7 +194,7 @@
 
     - (b) Social Justice and Diversity Committee
 
-    - (c) Bylaws Committee
+    - (c) Rules Committee
 
     - (d) Club Support Committee
 
@@ -262,23 +262,19 @@
 
     - (b) The Committee shall hold an event to address issues of diversity at least once per year.
 
-  - **SECTION 6.** The Bylaws Committee's purpose is to enhance the efficiency of the Senate and to streamline the legislative process. The Committee will strive to assist people bringing business before the Senate and on how to adhere to the rules and guidelines set forth in the Union Constitution and these Bylaws. This committee shall act in accordance with the following:
+  - **SECTION 6.** The Rules Committee's purpose is to enhance the efficiency of the Senate and to streamline the legislative process. The Committee will strive to assist people bringing business before the Senate and on how to adhere to the rules and guidelines set forth in the Union Constitution and these Bylaws. This committee shall act in accordance with the following:
 
     - (a) There shall be no Non-Senate Chair.
 
-    - (b) Only members of the Union Senate are permitted to attend Committee meetings. At the discretion of the Chair or the majority of present Committee members, those who are not Student Union Senators may attend.
+    - (b) Prior to each meeting of the Senate, the Rules Committee shall meet to review the agenda and business to come before the Senate.
 
-    - (c) Prior to each meeting of the Senate, the Bylaws Committee shall meet to review the agenda and business to come before the Senate.
+    - (c) The Committee Chair is ultimately responsible for contacting those students and/or club leaders who submitted legislation so that any issues addressed at the committee meeting are resolved prior to the Senate meeting. The Chair may delegate responsibility as they deem appropriate.
 
-    - (d) The Committee Chair is ultimately responsible for contacting those students and/or club leaders who submitted legislation so that any issues addressed at the committee meeting are resolved prior to the Senate meeting. The Chair may delegate responsibility as they deem appropriate.
+    - (d) The Committee may advise persons bringing legislation and other business before the Senate on how to conform such business to the rules of the Senate.
 
-    - (e) The Committee Chair shall compile a recommendation to the Senate no less than one day prior to each meeting, discussing the findings of the Committee.
+    - (e) Neither the Committee nor its members may require that persons bringing business before the Senate make modifications to that business.
 
-    - (f) The Committee may advise persons bringing legislation and other business before the Senate on how to conform such business to the rules of the Senate.
-
-    - (g) Neither the Committee nor its members may require that persons bringing business before the Senate make modifications to that business.
-
-    - (h) The Chair retains the right to prevent legislation or other business from reaching the floor but must notify the Senate of the reasons. By a 2/3 vote, the Senate may bring said business to the floor.
+    - (f) The Chair retains the right to prevent legislation or other business from reaching the floor but must notify the Senate of the reasons. By a 2/3 vote, the Senate may bring said business to the floor.
 
   - **SECTION 7.** The Club Support Committee shall serve the clubs of the Brandeis campus by educating club leaders and their memberships on resources available and beneficial to clubs and organizations of the Brandeis Student Union. Additionally, the Committee shall serve as an outlet for club advocacy related issues between clubs and the Union Government and/or the Administration of Brandeis University. The Committee shall provide services related to, but not limited to, the following:
 
