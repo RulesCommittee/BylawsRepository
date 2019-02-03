@@ -8,9 +8,7 @@
 
   - **SECTION 1.** All Student Union Executive Officers, Senators, Allocations Board Members, Justices of the Union Judiciary, and Union Representatives shall be considered "Union Officers."
 
-  - **SECTION 2.** Executive Officers and Senators shall publish project reports online prior to every meeting of the Senate. All other Union Officers shall publish reports online upon completion of projects and duties.
-
-  - **SECTION 3.** Is as follows:
+  - **SECTION 2.** Is as follows:
 
     - (a) Executive Officers shall report before the Senate at least once every two Senate meetings.
 
@@ -18,13 +16,13 @@
 
     - (c) The Senate may, by majority vote, mandate that a particular Union Officer report before the Senate.
 
-  - **SECTION 4.** All Union Officers shall hold weekly office hours.
+  - **SECTION 3.** All Union Officers shall hold weekly office hours.
 
     - (a) Executive Officers shall hold five office hours per week.
 
     - (b) All Senators, Union Representatives, and Members of the Allocations Board shall hold three office hours per week.
 
-  - **SECTION 5.** Student Representatives shall be appointed to University Committees by the Union President, subject to confirmation by the Senate.
+  - **SECTION 4.** Student Representatives shall be appointed to University Committees by the Union President, subject to confirmation by the Senate.
 
 <br>
 
