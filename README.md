@@ -154,7 +154,9 @@
 
     - (c) An amendment shall be adopted without a vote if there are no objections.
 
-  - **SECTION 6.** The order of business of meetings of the Union Senate shall be:
+  - **SECTION 6.** For each item brought to a vote, there shall be one round of voting. During this round, each member may cast his or her vote only once.
+  
+  - **SECTION 7.** The order of business of meetings of the Union Senate shall be:
 
     - (a) Call to Order
 
