@@ -275,6 +275,8 @@
     - (e) Neither the Committee nor its members may require that persons bringing business before the Senate make modifications to that business.
 
     - (f) The Chair retains the right to prevent legislation or other business from reaching the floor but must notify the Senate of the reasons. By a 2/3 vote, the Senate may bring said business to the floor.
+    
+    - (g) At least one member from the Judiciary must attend every Rules Committee meeting. 
 
   - **SECTION 7.** The Club Support Committee shall serve the clubs of the Brandeis campus by educating club leaders and their memberships on resources available and beneficial to clubs and organizations of the Brandeis Student Union. Additionally, the Committee shall serve as an outlet for club advocacy related issues between clubs and the Union Government and/or the Administration of Brandeis University. The Committee shall provide services related to, but not limited to, the following:
 
