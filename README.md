@@ -23,6 +23,11 @@
     - (b) All Senators, Union Representatives, and Members of the Allocations Board shall hold three office hours per week.
 
   - **SECTION 4.** Student Representatives shall be appointed to University Committees by the Union President, subject to confirmation by the Senate.
+  
+  - **SECTION 5.** All Branch Heads and Senate Committee Chairs must take attendance at meetings to ensure that Union Officers are fulfilling their obligations.
+  
+    - (a) Each Branch Head shall maintain a publicly accessible attendance document which lists every member and which      meetings they have missed. Senate Committee Chairs shall report attendance to the Vice President or Executive Senator in accordance with Article IV, Section 1, Clause B of these Bylaws.
+
 
 <br>
 
@@ -249,8 +254,6 @@
     - (i) In the event that the Senate Chair of the Committee or the Non-Senate Chair of the Committee fails to adhere to these rules and procedures and/or the duties prescribed to the Senate Committee Chairs in these Bylaws, the President of the Union Senate shall have the authority to remove him/her from the chair position.
 
     - (j) All Senate Committees must produce a report at least once a year detailing the work they have done as a committee and present it at the Senate meeting prior to Spring Inaugurations.
-
-    - (k) All Senate Chairs must take attendance at committee meetings to ensure that Senators are fulfilling committee obligations.
 
   - **SECTION 4.** The Services and Outreach Committee shall address any concerns or issues raised regarding the nature and availability of services provided by the Student Union Senate and foster a stronger relationship between Union officers and the Brandeis Undergraduate Student Body. The committee will also work to connect officers with their constituents, to increase awareness of the role of the Student Union Government, and to publicize and encourage participation in Union projects. These concerns and issues shall include, but not be limited to, the following:
 
