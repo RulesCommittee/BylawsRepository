@@ -235,7 +235,7 @@
 
     - (a) The actions of Senate Committees must be in line with the general goals and aims of the Senate. It shall be the responsibility of the Senate Chair of the Committee to ensure that the Committee remains in line with the goals of the Senate.
 
-    - (b) Meetings shall be held regularly and shall be called by the Senate Chair of the Committee and the Non-Senate Chair of the Committee.
+    - (b) Meetings shall be held at least once a week and shall be called by the Senate Chair of the Committee and the Non-Senate Chair of the Committee.
 
     - (c) All decisions made by the Senate Committee Chairs - be it policy, finances, or otherwise - shall not be made without consultation of the Non-Senate Chair of the Committee and the Committee.
 
