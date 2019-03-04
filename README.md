@@ -428,21 +428,13 @@
 
   - **SECTION 7.** Clubs are responsible for the following:
 
-    - (a) Maintaining a website for the club as prescribed by the Department of Student Activities and the Student Union. It shall include:
+    - (a) Submitting a copy of the Club's Constitution to the Union Secretary upon request.
 
-      - (i) A description of the club.
-
-      - (ii) Up-to-date contact information for the club and its officers.
-
-      - (iii) An up-to-date copy of the club's constitution in the designated file space. Any changes to the constitution must be uploaded within 5 academic days of the change.
-
-    - (b) Submitting a copy of the Club's Constitution to the Union Secretary upon request.
-
-    - (c) Complying with yearly renewal requirements, as is prescribed by the Student Union Secretary.
+    - (b) Complying with yearly renewal requirements, as is prescribed by the Student Union Secretary.
 
       - (i) The deadline for the Anti-hazing/Club Renewal Form shall be 40 academic days from the beginning of the academic year.
 
-    - (d) Complying with the Student Union Advertising Policy, as is prescribed by the Student Union Secretary.
+    - (c) Complying with the Student Union Advertising Policy, as is prescribed by the Student Union Secretary.
 
   - **SECTION 8.** The following shall be the relevant requirements for officers in clubs:
 
