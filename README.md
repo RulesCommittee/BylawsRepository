@@ -703,7 +703,58 @@
 
 <br>
 
-# ❧ ARTICLE XII: AMENDMENTS TO THE BYLAWS
+# ❧ ARTICLE XII: UNION MEMBER CODE OF CONDUCT AND OATH OF OFFICE 
+
+  -  **SECTION 1.** As a member of the Brandeis Undergraduate Student Union, one hereby agrees to abide by the following provisions of this Code of Conduct:
+      - (a) Members shall adhere to their prescribed duties as outlined in the Constitution and Bylaws.
+      
+      - (b)Members shall act in the best interest of the student body and the Student Union at all times. They shall make every reasonable attempt to perform their assigned duties, and act sincerely, with a sincere intention to deal fairly with others at all times. 
+      
+      - (c) Members shall be forthright, honest, and transparent in their communications with their constituents. They shall never knowingly misrepresent the truth in their capacity as a representative of the Union. If a member later discovers they had misrepresented the truth, they must correct their error in the same capacity they misrepresented the truth.
+      
+      - (d) Members shall conduct themselves in a professional manner when interacting as a representative of the Student Union and/or Brandeis University.
+      
+      - (e) Members shall maintain respect for the University, its employees, their fellow students, Union members, and themselves. 
+      
+      - (f) Members shall refrain from libel, slander, or any public personal attacks at all times. 
+      
+      - (g) Members are prohibited from bestowing favors, making undue use or influence of powers of office, or offer special considerations of any kind in exchange for anything of material or intrinsic value.
+      
+      - (h) Members shall refrain from unfairly obstructing other member’s free expression and access to platforms for expression outside meetings (social media, print media, etc.)
+      
+      - (i) Members shall make every effort to communicate across branches, and shall attend all required Union meetings/Union-sponsored events. 
+      
+      - (j) Members are prohibited from misusing, mismanaging, or misappropriating their position and/or equipment, facilities, or funds of the Union.
+      
+      - (k) The secretary shall ensure that all members of the Student Union sign the Union Oath of Office (in addition to any verbal/ceremonial oath). This signature shall be kept as a public record of their acknowledgement of their responsibilities to the Union and to their Constituents.  
+      
+  - **SECTION 2.** Failure to uphold these standards may result in one or more of the following:
+  
+      - (a) Revocation of Student Union Office/Romper Room Access/Privileges (at the discretion of the Student Union Secretary and President) 
+      
+      - (b) Referral to the Student Union Chief of Staff 
+      
+      - (c) Referral to the Student Union Judiciary, and, if necessary, a formal Judiciary case.
+      
+      - (d) Referral to the Dean of Students’ office 
+      
+      - (e) Impeachment 
+      
+      - (f) Any of the following formal sanctions:     
+            
+        - (i) Censure - An official public condemnation from the branch leader for violating the rules, policies, and procedures of the Union and/or branch. A censure has no formal penalty other than simply stating a violation has occurred.
+      
+        - (ii) Temporary Removal From Meetings - a member may be temporarily removed from an official meeting at the discretion of ⅔ of the branch membership. This vote may only be overturned by the Branch leader. A ⅔ majority vote of the branch must also take place in order for this removal to be overturned.  The length of a single suspension shall be no more than two meetings.    
+           
+        - (iii) Expulsion from a Specific Office - If an individual is serving in an additional appointed capacity, they may be dismissed from their duties by their respective branch head. They will retain the right to serve as a elected member pending the possibility of an official impeachment vote. Individuals elected within a Union branch (ex. Executive Senator or Allocations Board Chairperson) may be removed by a ⅔ vote of the branch membership. 
+
+            
+  - **SECTION 3.** 
+    The following Oath of Office shall be administered to all new members at the beginning of their respective terms: 
+“I (name of Union member) do solemnly swear (or affirm) that I will faithfully perform the duties of the office to which I have been elected; That I will abide by the Student Union Constitution, By-Laws, Code of Conduct, and mission of the Student Union; That I will work tirelessly to hear the unheard, be a voice for my constituents, and be a changemaker for good and for justice; And that I will forever strive for a better Union, a better Brandeis, and a better community for all.”
+
+           
+# ❧ ARTICLE XIII: AMENDMENTS TO THE BYLAWS
 
   - **SECTION 1.** Any and all legislation amending these Bylaws shall, prior to any vote of the Senate, be submitted for study to the Senate Committee on the Bylaws, which shall act pursuant to Section 6, Article VI of these Bylaws.
 
