@@ -93,15 +93,15 @@
 
 # ❧ ARTICLE IV: DUTIES OF SENATORS
 
-  - **SECTION 1.** Senators shall attend all meetings of the Senate and committees on which they are assigned and may miss up to three Senate meetings per semester. If a Senator misses four meetings in a semester, they will be removed from the Senate. The following conditions shall apply to this attendance policy:
+  - **SECTION 1.** Senators shall attend all meetings of the Senate and committees on which they are assigned and may miss up to three Senate meetings and three committee meetings (per committee) per semester. If a Senator misses four Senate or committee meetings in a semester, they will be removed from the Senate. The following conditions shall apply to this attendance policy:
 
     - (a) In the event of a university emergency (including but not limited to a snow emergency) or a meeting scheduled outside the regular meeting time with less than one week's notice, no Senator shall be penalized for absence.
 
-    - (b) The Vice President, in conjunction with the Executive Senator, shall maintain a publicly accessible attendance document which lists every Senator and which meetings they have missed. Any discrepancies should be reported immediately.
+    - (b) The Vice President, in conjunction with the Executive Senator, shall maintain a publicly accessible attendance document which lists every Senator and which meetings they have missed. Senate Chairs shall report committee attendance to the Executive Senator or Vice President, who will update the document accordingly. Any discrepancies should be reported immediately.
 
     - (c) The Vice President, Executive Senator, or a designee shall notify a Senator after their third absence that another absence will lead to their removal. This message shall be sent to the Senator's official brandeis.edu email address, though the sender may choose, at their discretion, to notify them through additional means.
 
-    - (d) If a Senator cannot attend a meeting in person for whatever reason, the Vice President may, at their discretion, allow that Senator to virtually attend via video chat or similar means. The Vice President is not required to allow this, and may reject any request to do so for any reason. If the Vice President allows this, it will not count as an absence.
+    - (d) If a Senator cannot attend a meeting in person for whatever reason, the Vice President or pertinent Committee Chair may, at their discretion, allow that Senator to virtually attend via video chat or similar means. The Vice President or pertinent Committee Chair is not required to allow this, and may reject any request to do so for any reason. If the Vice President or pertinent Committee Chair allows this, it will not count as an absence.
 
     - (e) If a Senator is removed under this provision, an election may be held at the discretion of the Secretary. If no election takes place then the seat shall remain vacant for the remainder of the term.
 
