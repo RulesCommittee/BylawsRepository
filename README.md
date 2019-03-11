@@ -97,7 +97,7 @@
 
     - (a) In the event of a university emergency (including but not limited to a snow emergency) or a meeting scheduled outside the regular meeting time with less than one week's notice, no Senator shall be penalized for absence.
 
-    - (b) The Vice President, in conjunction with the Executive Senator and Clerk of the Senate, shall maintain a publicly accessible attendance document which lists every Senator and which meetings they have missed. Any discrepancies should be reported immediately.
+    - (b) The Vice President, in conjunction with the Executive Senator, shall maintain a publicly accessible attendance document which lists every Senator and which meetings they have missed. Any discrepancies should be reported immediately.
 
     - (c) The Vice President, Executive Senator, or a designee shall notify a Senator after their third absence that another absence will lead to their removal. This message shall be sent to the Senator's official brandeis.edu email address, though the sender may choose, at their discretion, to notify them through additional means.
 
@@ -111,7 +111,7 @@
 
       - (i) Preparing the agenda for Senate meetings.
 
-      - (ii) To appoint a Clerk of the Senate, with duties as defined by the Executive Senator.
+      - (ii) To appoint a Clerk of the Senate, if needed, with duties as defined by the Executive Senator.
 
       - (iii) The Executive Senator shall have the right to deny an individual or group admittance to the Senate agenda. The Executive Senator shall inform the Senate of their execution of this right by the next Senate meeting. The Senate can overrule the Executive Senator's decision on this matter by a majority vote.
 
@@ -762,4 +762,4 @@
 
   - **SECTION 3.** The Senate shall not introduce and vote on legislation amending these Bylaws within the course of one meeting of the Senate unless the Senate suspends normal procedural rules.
 
-  - **SECTION 4.** Upon the enactment of any bill containing an amendment to these Bylaws and in a timely manner, the Clerk of the Senate shall produce, certify, and file a copy of said bill with the Secretary of the Union. The Secretary of the Union shall, in a timely manner, produce an edition of the Bylaws reflecting any and all amendments duly enacted by the Senate.
+  - **SECTION 4.** Upon the enactment of any bill containing an amendment to these Bylaws, and in a timely manner, the Chair of the Rules Committee shall update the Github Bylaws repository reflecting any and all amendments duly enacted by the Senate.
