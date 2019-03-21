@@ -139,7 +139,7 @@
 
     - (a) A straw poll vote shall be taken upon the request of one senator.
 
-    - (b) Members of the Senate shall be limited to three minutes per speech, at the discretion of the Chair, except as otherwise provided in these Bylaws.
+    - (b) Members of the Senate shall be limited to three minutes per speech, at the discretion of the Vice President, except as otherwise provided in these Bylaws.
 
     - (c) The Senate shall have the power to enter executive session by majority vote.
 
