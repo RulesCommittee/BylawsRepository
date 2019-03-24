@@ -69,9 +69,11 @@
 
     - (d) Club leaders shall have the right to appeal allocations given to their clubs during either Marathon period.
 
-    - (e) The Allocations Board shall have the right to turn down any appeal prior to an Appeals Marathon.
+    - (e) The Allocations Board shall have the right to turn down any appeal during an Appeals Marathon.
 
-    - (f) The Allocations Board shall hold Emergency Marathon meetings between the Regular Marathon and Early Marathon of any given semester at the discretion of the Chair.
+    - (f) The Allocations Board’s Funding Scope shall include the criteria for the rejection of Marathon appeals.
+    
+    - (g) The Allocations Board shall hold Emergency Marathon meetings between the Regular Marathon and Early Marathon of any given semester at the discretion of the Chair.
 
   - **SECTION 4.** There shall be established a grievance process for Allocations Board allocation decisions.
 
