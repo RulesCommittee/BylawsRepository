@@ -201,7 +201,7 @@
 
     - (d) Club Support Committee
 
-    - (e) Dining Services Committee
+    - (e) Dining Committee
 
     - (f) Sustainability Committee
 
@@ -285,15 +285,25 @@
 
     - (b) The club Support Committee will be responsible for contacting and requesting testimony from any and all groups that the prospective new group may have duality of purpose with.
 
-  - **SECTION 8.** The Dining Services Committee shall coordinate with the University Dining Committee in representing the Union when dealing with dining services and other dining-related affairs including but not limited to food quality, dining location hours, service quality, food offerings, meal plans, and availability of healthy food options.
+  - **SECTION 8.** The Dining Committee shall coordinate with university dining management in representing the Union and student body in all dining-related affairs including but not limited to food and service quality, dining location hours, food offerings, meal plans, and dietary needs.
 
-    - (a) The Committee shall assign a senator to every dining location on-campus to act as a liaison with the manager and gather student feedback about that location.
-
-    - (b) The Committee Chair shall meet with a representative from Dining Services at the end of every semester to report general student concerns in the area of dining. Following this meeting, the Chair must compile a dining report.
-
-    - (c) The Committee will identity at least one significant change desired by the student body every semester and campaign for it.
-
+    - (a) The Committee Chair shall reach out to university dining management at the beginning of a new semester to arrange a weekly time for the Committee and university dining management to meet. 
+    
+    - (b) In preparation for meetings with university dining management, committee members will gather relevant student feedback (complaints, compliments, suggestions, etc.) to be accumulated into a single report. 
+    
+    - (c) Feedback may be gathered through word of mouth, surveys, in-person and online interactions, or any reputable means available to members. Feedback should be as specific and with as much context as possible in order to aide university dining management in addressing it.
+    
     - (d) The Committee will gather relevant student feedback through a campus-wide poll on dining affairs at least once every year. This information may be received through another organization's poll as long as a section is dedicated to dining affairs. This information shall be used to determine any major problems that the Committee needs to address.
+    
+    - (e) The Committee shall make every effort to meet with university dining management every week to report student feedback and campaign for the changes desired by the student body and Union. 
+    
+    - (f) To encourage active participation during meetings with university dining management, the Committee Chair should encourage committee members to report their acquired feedback themselves rather than rely on the Committee Chair to report the feedback on their behalf.
+    
+    - (g) Following these meetings, the Chair, or a designee, must compile a dining report describing the matters discussed and actions to be taken in response. Each of these reports shall be made publicly available to all students.
+    
+    - (h) The Committee may assign a senator to a specific dining location or topic of interest to act as a liaison with the manager of that location or topic, such as a Kosher Student Representative to oversee all feedback related to Kosher food on campus or an Allergy Student Representative to oversee all feedback concerning student dietary needs.
+    
+    - (i) The Committee will assist university dining management in promulgating significant dining news with the student body.
 
   - **SECTION 9.** The Sustainability Committee shall investigate, advocate for, and implement policies that help to create a sustainable, environmentally consciousness campus on behalf of the Senate.
 
