@@ -101,7 +101,7 @@
 
     - (c) The Vice President, Executive Senator, or a designee shall notify a Senator after their third absence that another absence will lead to their removal. This message shall be sent to the Senator's official brandeis.edu email address, though the sender may choose, at their discretion, to notify them through additional means.
 
-    - (d) If a Senator cannot attend a meeting in person for whatever reason, the Vice President or pertinent Committee Chair may, at their discretion, allow that Senator to virtually attend via video chat or similar means. The Vice President or pertinent Committee Chair is not required to allow this, and may reject any request to do so for any reason. If the Vice President or pertinent Committee Chair allows this, it will not count as an absence.
+    - (d) If a Senator cannot attend a meeting in person for whatever reason, the Vice President or pertinent Committee Chair may, at their discretion, allow that Senator to virtually attend via video chat or similar means. The Vice President, or pertinent committee chair, can also allow excused absences given extraordinary circumstances. The Vice President or pertinent Committee Chair is not required to allow this, and may reject any request to do so for any reason. If the Vice President or pertinent Committee Chair allows this, it will not count as an absence.
 
     - (e) If a Senator is removed under this provision, an election may be held at the discretion of the Secretary. If no election takes place then the seat shall remain vacant for the remainder of the term.
 
