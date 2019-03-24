@@ -251,7 +251,7 @@
 
     - (i) In the event that the Senate Chair of the Committee or the Non-Senate Chair of the Committee fails to adhere to these rules and procedures and/or the duties prescribed to the Senate Committee Chairs in these Bylaws, the President of the Union Senate shall have the authority to remove him/her from the chair position.
 
-    - (j) All Senate Committees must produce a report at least once a year detailing the work they have done as a committee and present it at the Senate meeting prior to Spring Inaugurations.
+    - (j) All Senate Committees must produce a report at least once a semester detailing the work they have done as a committee and present it at the Senate meeting prior to Spring and Fall Inaugurations.
 
   - **SECTION 4.** The Services and Outreach Committee shall address any concerns or issues raised regarding the nature and availability of services provided by the Student Union Senate and foster a stronger relationship between Union officers and the Brandeis Undergraduate Student Body. The committee will also work to connect officers with their constituents, to increase awareness of the role of the Student Union Government, and to publicize and encourage participation in Union projects. These concerns and issues shall include, but not be limited to, the following:
 
