@@ -655,67 +655,7 @@
     
 <br>
 
-# ❧ ARTICLE XI: SPECIAL UNION PROGRAMS
-
-  - **SECTION 1.** The David Alexander '79 Memorial Award for Social Consciousness and Activism in the Brandeis community was established in 1980 by the Senate in honor of former Senate Secretary, Parliamentarian, and social activist David Alexander who died in a tragic auto accident in January 1980.
-
-    - (a) The Senate shall announce to the community by the first week in March that it is accepting nominations for this award.
-
-    - (b) Nominations may be made to the Dean of Student Life until the deadline set by the Union Executive Office.
-
-      - (i) Any member of the Brandeis Student Union may make a nomination.
-
-      - (ii) Nominations must be typed and state the name of the nominee, the name of the nominator, and explanation of the qualifications of the nominee.
-
-      - (iii) If a member of the Union Executive Office is a nominee, they may not participate in the voting process.
-
-    - (c) After receiving all nominations the Union Executive Office shall meet to determine by majority vote the recipient of the award.
-
-    - (d) All nominees must be graduating seniors who meet the following criteria:
-
-      - (i) The award is based on a student's actions on any social problem or set of societal problems, be they environmental, political, social, cultural, etc. These actions must have had a significant impact on the Brandeis community.
-
-      - (ii) The services rendered by the student during their time at Brandeis ought to have been services provided directly to the Brandeis community. This award is not for social consciousness and activism outside the university.
-
-  - **SECTION 2.** The Senate shall each year, through the appointment of an editor, produce and publish a Course Evaluation Guide (CEG). The editor may share their stipend with as many assistants as they feel are necessary.
-
-    - (a) The Union President shall, in consultation with the most recent CEG editor, select the editor.
-
-    - (b) The appointment must be confirmed by a majority vote of the Senate.
-
-    - (c) The selection process shall consist of applications and interviews. The Union President shall make applications available by the second week in February.
-
-    - (d) The duties of the CEG editor shall be:
-
-      - (i) To compile summaries of the comments of the course evaluations.
-
-      - (ii) To compile numerical statistics with the assistance of the office of the Dean of Arts and Sciences.
-
-      - (iii) To arrange for all facets of publication of the CEG.
-
-    - (e) The CEG editor(s) shall be granted a total stipend of $1,750 and shall increase every year by a rate equal to the percentage change in tuition (C.O.L.A.). Forty percent of the total stipend shall be paid during the last week of the spring semester. The rest shall be paid upon the publication of the CEG.
-
-    - (f) The CEG must be readily available to all undergraduates by the Friday before the new students arrive for the fall semester. 1. Each working day that the CEG is not available to students past this deadline, $100 will be deducted from the editor's total salary, at the discretion of the Union President.
-
-  - **SECTION 3.** There shall exist the Student Union Office for Student Rights and Advocacy (OSRA). The OSRA shall serve the student body by providing advisory services for students involved in, and as a student oversight body for, the University's conduct and education system and academic policy disputes.
-
-    - (a) The OSRA shall provide services including, but not limited to, the following: individual student advisory services, policy initiatives, administrative oversight, and general student body education.
-
-    - (b) The OSRA shall be run by the Director, who shall be nominated to the Senate annually by the members of the Office, and confirmed by a majority vote of the Senate.
-
-    - (c) The Director shall report to the Senate no less than once a month on the activities of the OSRA. The Senate can mandate the Director to report at a particular Senate meeting by a majority vote.
-
-    - (d) The OSRA shall establish a structure and set of guidelines to instruct the Director on the selection of a staff, their responsibilities, and office practices.
-
-    - (e) The OSRA shall produce an annual and public report on the activities of the office and a review of University policies and practices in the fields of student conduct and academic policies. This report shall be made available to the student body prior to the last academic day of each academic year.
-
-    - (f) The Union President, at their discretion, may appoint the Director of the OSRA to the Union Executive Office. As a member of the Executive Office the Director of the OSRA may be assigned additional responsibilities by the President. A majority vote of the Senate is needed for the Director to be confirmed to the Union Executive Office. The Director of the OSRA may be removed from the Executive Office, by the Senate, through the mandated removal procedures.
-
-    - (g) The Director of the OSRA may be impeached from their position on the OSRA through the impeachment procedures detailed in the Constitution. The Director may not be removed in any way except impeachment by the Union, or removal initiated internally by the OSRA, following office guidelines.
-
-<br>
-
-# ❧ ARTICLE XII: UNION MEMBER CODE OF CONDUCT AND OATH OF OFFICE 
+# ❧ ARTICLE XI: UNION MEMBER CODE OF CONDUCT AND OATH OF OFFICE 
 
   -  **SECTION 1.** As a member of the Brandeis Undergraduate Student Union, one hereby agrees to abide by the following provisions of this Code of Conduct:
       - (a) Members shall adhere to their prescribed duties as outlined in the Constitution and Bylaws.
@@ -766,7 +706,7 @@
 “I (name of Union member) do solemnly swear (or affirm) that I will faithfully perform the duties of the office to which I have been elected; That I will abide by the Student Union Constitution, By-Laws, Code of Conduct, and mission of the Student Union; That I will work tirelessly to hear the unheard, be a voice for my constituents, and be a changemaker for good and for justice; And that I will forever strive for a better Union, a better Brandeis, and a better community for all.”
 
            
-# ❧ ARTICLE XIII: AMENDMENTS TO THE BYLAWS
+# ❧ ARTICLE XII: AMENDMENTS TO THE BYLAWS
 
   - **SECTION 1.** Any and all legislation amending these Bylaws shall, prior to any vote of the Senate, be submitted for study to the Senate Committee on the Bylaws, which shall act pursuant to Section 6, Article VI of these Bylaws.
 
