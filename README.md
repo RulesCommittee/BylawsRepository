@@ -565,6 +565,25 @@
 
       - (vi) SPS does not work events for off-campus groups or groups unrecognized by Brandeis University.
 
+  - **SECTION 13.** All Secured clubs shall register an official “Club Consultant” with the Senate Club Support Committee and the Department of Student Activities. 
+  
+    - (a) The Club Consultant shall be an employed faculty or staff member at Brandeis University. 
+    
+    - (b) The Club Consultant shall not be a voting member within a club. Student club leaders hold final authority on all club decisions. Club Consultants shall not hold or wield official authority or influence over club operations, content published by media organizations, nor club financial decisions, unless deemed necessary by the organization. 
+    
+    - (c) Club leaders shall host a meeting between the club treasurer and Club Consultant at least twice per semester to ensure consistency with financial policies.
+    
+    - (d) When deemed necessary by student club leaders, Club Consultants shall be contacted for advice on the following matters:
+    
+      - (i) Any leadership or membership issues which arise
+      - (ii) Any inter/intra-group conflict
+      - (iii) Effectively voicing their concerns to administration and advocating for the club 
+      - (iv) Third-party perspectives on club functions and operations
+      - (v) Networking with other universities and off-campus organizations
+      - (vi) Any additional club-related issues that arise
+      
+    - (e) Club leaders shall specify the roles and responsibilities of their respective consultants in their formal contract. These roles and responsibilities shall fall within the constraints of parts (a) through (d). 
+  
 <br>
 
 # ❧ ARTICLE IX: FINANCIAL ACTIVITIES
