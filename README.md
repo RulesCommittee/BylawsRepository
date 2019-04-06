@@ -95,7 +95,7 @@
 
 # ❧ ARTICLE IV: DUTIES OF SENATORS
 
-  - **SECTION 1.** Senators shall attend all meetings of the Senate and committees on which they are assigned and may miss up to three Senate meetings and three committee meetings (per committee) per semester. If a Senator misses four Senate or committee meetings in a semester, they will be removed from the Senate. The following conditions shall apply to this attendance policy:
+  - **SECTION 1.** Senators shall attend all meetings of the Senate and committees on which they are required to serve and may miss up to three Senate meetings and three committee meetings (per committee) per semester. If a Senator misses four Senate or committee meetings in a semester, they will be removed from the Senate. The following conditions shall apply to this attendance policy:
 
     - (a) In the event of a university emergency (including but not limited to a snow emergency) or a meeting scheduled outside the regular meeting time with less than one week's notice, no Senator shall be penalized for absence.
 
@@ -106,8 +106,14 @@
     - (d) If a Senator cannot attend a meeting in person for whatever reason, the Vice President or pertinent Committee Chair may, at their discretion, allow that Senator to virtually attend via video chat or similar means. The Vice President, or pertinent committee chair, can also allow excused absences given extraordinary circumstances. The Vice President or pertinent Committee Chair is not required to allow this, and may reject any request to do so for any reason. If the Vice President or pertinent Committee Chair allows this, it will not count as an absence.
 
     - (e) If a Senator is removed under this provision, an election may be held at the discretion of the Secretary. If no election takes place then the seat shall remain vacant for the remainder of the term.
+    
+  - **SECTION 2.** All Senators, with the exception of Committee Chairs, must serve on at least two committees. 
+  
+    - (a) Committee Chairs need only serve on the committee which they chair.
+    
+    - (b) Senators may choose which committees to serve on, but can also be assigned at the discretion of the Vice President.
 
-  - **SECTION 2.** Each semester, the Senate shall elect an Executive Senator as a liaison between the Senate and the Executive Office.
+  - **SECTION 3.** Each semester, the Senate shall elect an Executive Senator as a liaison between the Senate and the Executive Office.
 
     - (a) The duties of the Executive Senator shall include:
 
@@ -125,7 +131,7 @@
 
       - (iii) All voting shall be by secret ballot with the candidates not present at the time of voting.
 
-  - **SECTION 3.** No individual shall serve in an appointed capacity as a member of the Union Government unless nominated by the Union President and confirmed by the Senate, except as otherwise provided in these Bylaws. The Senate may require, by majority vote, the production of any application, or the presence of any nominee, for such a position.
+  - **SECTION 4.** No individual shall serve in an appointed capacity as a member of the Union Government unless nominated by the Union President and confirmed by the Senate, except as otherwise provided in these Bylaws. The Senate may require, by majority vote, the production of any application, or the presence of any nominee, for such a position.
 
 <br>
 
