@@ -157,7 +157,7 @@
 
     - (a) Proxy votes are only for amendments, clubs or SMRs which have been discussed at a meeting prior to the vote. This is not applicable to club chartering/recognition votes the day of the meeting.
 
-    - (b) Proxy votes can be overridden by the discretion of the Executive Senator or a ⅔ Senate vote.
+    - (b) Proxy votes can be overridden by a ⅔ Senate vote.
 
   - **SECTION 6.** For each item brought to a vote, there shall be one round of voting. During this round, each member may cast his or her vote only once.
   
