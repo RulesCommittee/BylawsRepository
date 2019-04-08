@@ -115,13 +115,7 @@
 
   - **SECTION 3.** Each semester, the Senate shall elect an Executive Senator as a liaison between the Senate and the Executive Office.
 
-    - (a) The duties of the Executive Senator shall include:
-
-      - (i) Preparing the agenda for Senate meetings.
-
-      - (ii) To appoint a Clerk of the Senate, if needed, with duties as defined by the Executive Senator.
-
-      - (iii) The Executive Senator shall have the right to deny an individual or group admittance to the Senate agenda. The Executive Senator shall inform the Senate of their execution of this right by the next Senate meeting. The Senate can overrule the Executive Senator's decision on this matter by a majority vote.
+    - (a) The Executive Senator or the Vice President shall have the right to deny an individual or group admittance to the Senate agenda. The Executive Senator or Vice President shall inform the Senate within 24 hours of their execution of this right. The Senate can overrule their decision on this matter by a majority vote.
 
     - (b) The election procedure for the Executive Senator shall be as follows:
 
