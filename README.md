@@ -207,7 +207,7 @@
 
     - (f) Sustainability Committee
 
-    - (g) Campus Operations Committee
+    - (g) Facilities and Housing Committee
 
     - (h) Health and Safety Committee
 
@@ -239,33 +239,53 @@
 
     - (b) Meetings shall be held at least once a week and shall be called by the Senate Chair of the Committee and the Non-Senate Chair of the Committee.
 
-    - (c) All decisions made by the Senate Committee Chairs - be it policy, finances, or otherwise - shall not be made without consultation of the Non-Senate Chair of the Committee and the Committee.
-
-    - (d) The Senate Chair of the Committee has the ultimate authority on Committee finances but shall not act without first consulting the Non-Senate Chair of the Committee and the Committee.
-
-    - (e) Each Committee shall be required to report to the Senate at the meeting immediately following the Committee Meeting. The report shall be submitted by the Senate Chair of the Committee. In the absence of the Senate Chair of the Committee, the Non Senate Chair of the Committee or another committee member shall submit the report.
-
-    - (f) The Vice President shall produce a weekly Senate Update that includes committee chairs’ weekly reports (from the Executive Senator’s meeting minutes) and contact information of the committee chairs, which shall be made publicly available through weekly emails, social media platforms, Union Government publications, or other Union Outreach tools. 
+    - (c) Committee Chairs shall make every effort to involve relevant administration or faculty in their weekly meetings and activities.
     
-    - (g) If the position of Senate Chair of the Committee becomes vacant, all authority delegated to the Senate Chair of the Committee shall fall to the Executive Senator or the President of the Union Senate until another is appointed.
+    - (d) All decisions made by the Senate Committee Chairs - be it policy, finances, or otherwise - shall not be made without consultation of the Non-Senate Chair of the Committee and the Committee.
 
-    - (h) Committees shall have the right to use Union resources at the discretion of the Union Secretary.
+    - (e) The Senate Chair of the Committee has the ultimate authority on Committee finances but shall not act without first consulting the Non-Senate Chair of the Committee and the Committee.
 
-    - (i) All campus communications prepared by Committees must be approved by the Executive Senator or the President of the Union Senate prior to distribution.
+    - (f) Each Committee shall be required to report to the Senate at the meeting immediately following the Committee Meeting. The report shall be submitted by the Senate Chair of the Committee. In the absence of the Senate Chair of the Committee, the Non Senate Chair of the Committee or another committee member shall submit the report.
 
-    - (j) In the event that the Senate Chair of the Committee or the Non-Senate Chair of the Committee fails to adhere to these rules and procedures and/or the duties prescribed to the Senate Committee Chairs in these Bylaws, the President of the Union Senate shall have the authority to remove him/her from the chair position.
+    - (g) The Vice President shall produce a weekly Senate Update that includes committee chairs’ weekly reports (from the Executive Senator’s meeting minutes) and contact information of the committee chairs, which shall be made publicly available through weekly emails, social media platforms, Union Government publications, or other Union Outreach tools. 
+    
+    - (h) If the position of Senate Chair of the Committee becomes vacant, all authority delegated to the Senate Chair of the Committee shall fall to the Executive Senator or the President of the Union Senate until another is appointed.
 
-    - (k) All Senate Committees must produce a report at least once a semester detailing the work they have done as a committee and present it at the Senate meeting prior to Spring and Fall Inaugurations.
+    - (i) Committees shall have the right to use Union resources at the discretion of the Union Secretary.
 
-  - **SECTION 4.** The Services and Outreach Committee shall address any concerns or issues raised regarding the nature and availability of services provided by the Student Union Senate and foster a stronger relationship between Union officers and the Brandeis Undergraduate Student Body. The committee will also work to connect officers with their constituents, to increase awareness of the role of the Student Union Government, and to publicize and encourage participation in Union projects. These concerns and issues shall include, but not be limited to, the following:
+    - (j) All campus communications prepared by Committees must be approved by the Executive Senator or the President of the Union Senate prior to distribution.
+
+    - (k) In the event that the Senate Chair of the Committee or the Non-Senate Chair of the Committee fails to adhere to these rules and procedures and/or the duties prescribed to the Senate Committee Chairs in these Bylaws, the President of the Union Senate shall have the authority to remove him/her from the chair position.
+
+    - (l) All Senate Committees must produce a report at least once a semester detailing the work they have done as a committee and present it at the Senate meeting prior to Spring and Fall Inaugurations.
+
+  - **SECTION 4.** The Services and Outreach Committee shall address any concerns or issues raised regarding the nature and availability of services provided by the Student Union and foster a stronger relationship between Union officers and the Brandeis Undergraduate Student Body. The committee shall organize events, services and projects to increase awareness of the role of the Student Union.
 
     - (a) The Committee shall organize and run transportation services to high-volume train stations and airports preceding breaks where large portions of the student body are expected to be traveling.
+    
+    - (b) The Committee shall organize and run “Meet the Union,” an informational outreach event to encourage student participation and engagement with the Student Union.
+    
+    - (c) The Committee shall organize and run the “Midnight Buffet,” an end-of-semester celebration party for the student body, which should include but need not be limited to food, music, merchandise (such as T-shirts), a special theme, etc.
+    
+    - (d) The Committee may organize and run any other events, services and projects that the Committee believes will positively influence perception of the Student Union.
+    
+    - (e) At the discretion of the Senate Chair, the Committee may coordinate with other committees or branches of the Student Union to organize, fund or run any project, service or event.
+    
+    - (f) The Senate Chair may, in conjunction with the Vice President, mandate the attendance of all Union Officers at any committee- or Union-sponsored event, including at set-up.
 
-  - **SECTION 5.** The Social Justice and Diversity Committee shall be composed of Senators and other interested students who will work together in the interest of social justice and diversity. The Committee shall investigate, publicize, and act upon student concerns. It shall serve to reflect and represent students' convictions to one another, the administration, and the community at large in expression of our University's sense of and commitment to Social Justice. The committee shall also promote institutional change, and work to encourage interaction and connections among the different groups that make up the student body. Through these efforts, the Committee will work to give underrepresented groups a voice on campus, and to help organize efforts improving coexistence, civil rights, and civil liberties at Brandeis.
+  - **SECTION 5.** The Social Justice and Diversity Committee shall serve to promote and improve social equity, inclusion and diversity at Brandeis by collaborating with university staff, students, clubs and departments who uphold the value of social justice.
 
-    - (a) The Committee shall undertake at least one major project per semester.
+    - (a) The Committee shall investigate, publicize and act upon relevant student concerns.
 
-    - (b) The Committee shall hold an event to address issues of diversity at least once per year.
+    - (b) The Committee shall reflect and represent students' convictions to one another, the administration, and the community at large in expression of our the University's sense of and commitment to social justice. 
+    
+    - (c) The Committee shall promote institutional change, and work to encourage interaction and connections among the different groups that make up the student body. 
+    
+    - (d) The Committee shall undertake at least one major project per semester.
+    
+    - (e) The Committee may choose a specific theme to focus on each semester.
+    
+    - (f) Through these efforts, the Committee will work to give underrepresented groups a voice on campus, and to help organize efforts improving coexistence, civil rights, and civil liberties at Brandeis.
 
   - **SECTION 6.** The Rules Committee's purpose is to enhance the efficiency of the Senate and to streamline the legislative process. The Committee will strive to assist people bringing business before the Senate and on how to adhere to the rules and guidelines set forth in the Union Constitution and these Bylaws. This committee shall act in accordance with the following:
 
@@ -287,11 +307,13 @@
 
     - (a) Human, material, and financial resources of the Brandeis Student Union, the Brandeis University, and the greater Brandeis University community. It shall provide this service by proactively engaging with and directly meeting with clubs.
 
-    - (b) The club Support Committee will be responsible for contacting and requesting testimony from any and all groups that the prospective new group may have duality of purpose with.
+    - (b) The Club Support Committee will be responsible for contacting and requesting testimony from any and all groups that the prospective new group may have duality of purpose with.
+    
+    - (c) Senators who serve on the committee may be excused from serving on other committees at the discretion of the Vice President.
 
   - **SECTION 8.** The Dining Committee shall coordinate with university dining management in representing the Union and student body in all dining-related affairs including but not limited to food and service quality, dining location hours, food offerings, meal plans, and dietary needs.
 
-    - (a) The Committee Chair shall reach out to university dining management at the beginning of a new semester to arrange a weekly time for the Committee and university dining management to meet. 
+    - (a) The Committee Chair shall reach out to university dining management at the beginning of a new semester to arrange a recurring time for the Committee and university dining management to meet. 
     
     - (b) In preparation for meetings with university dining management, committee members will gather relevant student feedback (complaints, compliments, suggestions, etc.) to be accumulated into a single report. 
     
@@ -307,25 +329,31 @@
     
     - (h) The Committee may assign a senator to a specific dining location or topic of interest to act as a liaison with the manager of that location or topic, such as a Kosher Student Representative to oversee all feedback related to Kosher food on campus or an Allergy Student Representative to oversee all feedback concerning student dietary needs.
     
-    - (i) The Committee will assist university dining management in promulgating significant dining news with the student body.
+    - (i) The Committee may assist university dining management in promulgating significant dining news with the student body.
+    
+    - (j) The Committee may pursue any other projects that the Committee believes will improve the dining experience.
 
   - **SECTION 9.** The Sustainability Committee shall investigate, advocate for, and implement policies that help to create a sustainable, environmentally consciousness campus on behalf of the Senate.
 
-    - (a) The Committee shall work with relevant faculty, staff, and Union Organizations in order to promote environmentalism and sustainability on campus.
+    - (a) The Committee shall coordinate and work with relevant clubs, Student Union committees and members, campus resources, faculty and staff in order to promote environmentalism and sustainability on campus.
+    
+    - (b) At least one Representative to the Brandeis Sustainability Fund must attend every Sustainability Committee meeting.
 
-  - **SECTION 10.** The Campus Operations Committee shall be responsible for working with University Services and the Vice President for Campus Operations, along with Public Safety to promote a safe, modern, and comfortable campus environment for all Brandeis students. 
+  - **SECTION 10.** The Facilities and Housing Committee shall be responsible for working with university facilities and housing management to promote a safe, functional, clean, and attractive campus environment for all Brandeis students. 
 
-    - (a) The Committee shall work with University Administrators and advocate for improvements to campus facilities and operations.
+    - (a) The Committee shall advocate for improvements to the operation and maintenance of all university-owned buildings and grounds by providing relevant student feedback to university facilities and housing management and undertaking projects to improve campus spaces.
+    
+    - (b) The Committee may also address neglected campus operations or university services lacking sufficient representation from the Student Union.
 
-    - (b) All Quad Senators are required to serve on the committee.
+    - (c) All Quad Senators are required to serve on the committee. Quad Senators who are also Senate Chairs may be excused from serving on the committee in accordance with Article IV, Section 2, Clause (a) of these Bylaws. 
+    
+    - (d) The Committee may assist university facilities and housing management in promulgating significant facilities and housing news with the student body. 
 
-  - **SECTION 11.** The Health and Safety Committee shall serve to promote and improve the well-being and security of students on campus.
+  - **SECTION 11.** The Health and Safety Committee shall serve to promote and improve the well-being and security of students on and off campus, which shall include but not be limited to mental, physical and emotional health; alcohol and drug awareness and safety; sexual health and safety; safety and accessibility for students on and off-campus; fair treatment of students with registered disabilities; and healthy academic and non-academic life balance.
 
-    - (a) The committee shall coordinate and work with related clubs, Student Union committees and members, campus resources, faculty, and staff in order to maximize efficiency.
-
-    - (b) The committee shall advocate for health and safety of students in the areas of sexual health and safety, alcohol and drug awareness and safety, mental health, physical health, emotional health, safety for students on and off-campus, healthy academic and non-academic life balance, and more.
-
-    - (c) The committee shall advocate for improvements to campus health and safety in university policy, provide awareness and information to students, host events, and pursue relevant initiatives.
+    - (a) The committee shall advocate for improvements to campus health and safety in university policy, provide awareness and information to students, host events, and pursue relevant initiatives.
+    
+    - (b) The committee shall coordinate and work with related clubs, Student Union committees and members, campus resources, faculty, and staff in order to maximize efficiency.
 
 <br>
 
