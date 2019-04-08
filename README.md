@@ -229,9 +229,9 @@
 
     - (h) The Committee shall work to develop new services to address student needs.
 
-    - (i) Maintain Union outreach tools, such as social media accounts and Union Government publications.
+    - (i) The Committee Chair, or a designee, shall maintain and update Union outreach tools, such as social media platforms, weekly emails and Union Government publications.
 
-    - (j) Coordinate other events and programs to foster the committee's goals.
+    - (j) The Committee Chair, or a designee, shall coordinate other events and programs to foster the committee's goals.
 
   - **SECTION 3.** The rules and procedures of Senate Committees are as follows:
 
@@ -245,15 +245,17 @@
 
     - (e) Each Committee shall be required to report to the Senate at the meeting immediately following the Committee Meeting. The report shall be submitted by the Senate Chair of the Committee. In the absence of the Senate Chair of the Committee, the Non Senate Chair of the Committee or another committee member shall submit the report.
 
-    - (f) If the position of Senate Chair of the Committee becomes vacant, all authority delegated to the Senate Chair of the Committee shall fall to the Executive Senator or the President of the Union Senate until another is appointed.
+    - (f) The Vice President shall produce a weekly Senate Update that includes committee chairs’ weekly reports (from the Executive Senator’s meeting minutes) and contact information of the committee chairs, which shall be made publicly available through weekly emails, social media platforms, Union Government publications, or other Union Outreach tools. 
+    
+    - (g) If the position of Senate Chair of the Committee becomes vacant, all authority delegated to the Senate Chair of the Committee shall fall to the Executive Senator or the President of the Union Senate until another is appointed.
 
-    - (g) Committees shall have the right to use Union resources at the discretion of the Union Secretary.
+    - (h) Committees shall have the right to use Union resources at the discretion of the Union Secretary.
 
-    - (h) All campus communications prepared by Committees must be approved by the Executive Senator or the President of the Union Senate prior to distribution.
+    - (i) All campus communications prepared by Committees must be approved by the Executive Senator or the President of the Union Senate prior to distribution.
 
-    - (i) In the event that the Senate Chair of the Committee or the Non-Senate Chair of the Committee fails to adhere to these rules and procedures and/or the duties prescribed to the Senate Committee Chairs in these Bylaws, the President of the Union Senate shall have the authority to remove him/her from the chair position.
+    - (j) In the event that the Senate Chair of the Committee or the Non-Senate Chair of the Committee fails to adhere to these rules and procedures and/or the duties prescribed to the Senate Committee Chairs in these Bylaws, the President of the Union Senate shall have the authority to remove him/her from the chair position.
 
-    - (j) All Senate Committees must produce a report at least once a semester detailing the work they have done as a committee and present it at the Senate meeting prior to Spring and Fall Inaugurations.
+    - (k) All Senate Committees must produce a report at least once a semester detailing the work they have done as a committee and present it at the Senate meeting prior to Spring and Fall Inaugurations.
 
   - **SECTION 4.** The Services and Outreach Committee shall address any concerns or issues raised regarding the nature and availability of services provided by the Student Union Senate and foster a stronger relationship between Union officers and the Brandeis Undergraduate Student Body. The committee will also work to connect officers with their constituents, to increase awareness of the role of the Student Union Government, and to publicize and encourage participation in Union projects. These concerns and issues shall include, but not be limited to, the following:
 
