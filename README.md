@@ -599,7 +599,7 @@
 
   - **SECTION 13.** All Secured clubs shall register an official “Club Consultant” with the Senate Club Support Committee and the Department of Student Activities. 
   
-    - (a) The Club Consultant shall be an employed faculty or staff member at Brandeis University. 
+    - (a) The Club Consultant shall be an employed faculty or full-time staff member at Brandeis University. 
     
     - (b) The Club Consultant shall not be a voting member within a club. Student club leaders hold final authority on all club decisions. Club Consultants shall not hold or wield official authority or influence over club operations, content published by media organizations, nor club financial decisions, unless deemed necessary by the organization. 
     
@@ -614,7 +614,7 @@
       - (v) Networking with other universities and off-campus organizations
       - (vi) Any additional club-related issues that arise
       
-    - (e) Club leaders shall specify the roles and responsibilities of their respective consultants in their formal contract. These roles and responsibilities shall fall within the constraints of parts (a) through (d). 
+    - (e) Club leaders shall specify the roles and responsibilities of their respective consultants in a formal contract. These roles and responsibilities shall fall within the constraints of parts (a) through (d). 
   
 <br>
 
