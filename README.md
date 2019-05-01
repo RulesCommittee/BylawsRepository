@@ -126,6 +126,18 @@
       - (iii) All voting shall be by secret ballot with the candidates not present at the time of voting.
 
   - **SECTION 4.** No individual shall serve in an appointed capacity as a member of the Union Government unless nominated by the Union President and confirmed by the Senate, except as otherwise provided in these Bylaws. The Senate may require, by majority vote, the production of any application, or the presence of any nominee, for such a position.
+  
+  
+  - **SECTION 5.**  Class senators shall serve as moderators of their respective class social media pages (ex. MyDeis). 
+   
+     - (a) Senators moderating these forums shall be subject to the university’s conduct standards, Rights and Responsibilities, Union Code of Conduct, Constitution, and Bylaws.
+   
+     - (b) This privilege may be revoked by the Office of Communications and/or the Union President or Vice President should a breach of any of the above occur. 
+   
+     - (c) Class senators will be removed as moderators at the conclusion of their respective terms.
+   
+     - (d) If a class senator is unwilling or unable to act as a moderator, another senator may be appointed at the discretion of the Vice President.   
+
 
 <br>
 
