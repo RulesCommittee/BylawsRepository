@@ -481,13 +481,17 @@
 
   - **SECTION 8.** The following shall be the relevant requirements for officers in clubs:
 
-    - (a) All clubs must have a president and a treasurer or officers that have comparable duties necessary for successful club operations.
-
-    - (b) All officers must be students enrolled in the undergraduate program or the Myra Kraft Transitional Year Program at Brandeis University.
-
-    - (c) All Officers must complete Bystander Training or a Diversity, Equity, and Inclusion Training once annually as recorded by the Office of Prevention Services and the Office of Diversity, Equity, & Inclusion. Failure to comply will result in club de-chartering and de-recognition with the exception of the 2018-2019 academic year.
+    - (a) Clubs shall be encouraged to attend training sessions focused on allyship and coalition-building before receiving Student Union funds for events related to topics focused on marginalized populations or controversial issues.
     
-    - (d) The Senate may, by majority vote, mandate that a particular Club Officer report before the Senate.
+    - (b) The Office of Diversity, Equity, and Inclusion, as well as the Intercultural Center, will offer allyship and coalition-building training at the beginning of each semester to provide this support.
+    
+    - (c) All clubs must have a president and a treasurer or officers that have comparable duties necessary for successful club operations.
+
+    - (d) All officers must be students enrolled in the undergraduate program or the Myra Kraft Transitional Year Program at Brandeis University.
+
+    - (e) All Officers must complete Bystander Training or a Diversity, Equity, and Inclusion Training once annually as recorded by the Office of Prevention Services and the Office of Diversity, Equity, & Inclusion. Failure to comply will result in club de-chartering and de-recognition with the exception of the 2018-2019 academic year.
+    
+    - (f) The Senate may, by majority vote, mandate that a particular Club Officer report before the Senate.
 
   - **SECTION 9.** Clubs may, with the approval of the Senate, change their names and constitutional purposes. The Chair of the Club Support Committee shall inform the Department of Student Activities of any changes to club names.
 
