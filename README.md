@@ -747,9 +747,9 @@
       
       - (k) The secretary shall ensure that all members of the Student Union sign the Union Oath of Office (in addition to any verbal/ceremonial oath). This signature shall be kept as a public record of their acknowledgement of their responsibilities to the Union and to their Constituents.  
       
-  - **SECTION 2.** Failure to uphold these standards may result in one or more of the following:
+  - **SECTION 2.** Failure to uphold these standards shall grant any Union Officer the right to submit a request to the Senate (in accordance with Article V, Section 3 of these Bylaws) to impose, subject to a 2/3 vote of the Senate,one or more of the following:
   
-      - (a) Revocation of Student Union Office/Romper Room Access/Privileges (at the discretion of the Student Union Secretary and President) 
+      - (a) Revocation of Student Union Office/Romper Room Access/Privileges 
       
       - (b) Referral to the Student Union Chief of Staff 
       
