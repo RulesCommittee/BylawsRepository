@@ -20,7 +20,8 @@
 
     - (a) Executive Officers shall hold five office hours per week.
 
-    - (b) All Senators, Union Representatives, Justices of the Union Judiciary, and Members of the Allocations Board shall hold three office hours per week.
+    - (b) All Union Representatives, Justices of the Union Judiciary, and Members of the Allocations Board shall hold three office hours per week.
+    -(c) All Senators shall hold office hours by appointment
 
   - **SECTION 4.** Student Representatives shall be appointed to University Committees by the Union President, subject to confirmation by the Senate.
   
