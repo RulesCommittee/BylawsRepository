@@ -113,6 +113,7 @@
     - (a) Committee Chairs need only serve on the committee which they chair.
     
     - (b) Senators may choose which committees to serve on, but can also be assigned at the discretion of the Vice President.
+    
     -(c) Serving as Representative to the Allocations Board or CEEF Board shall fulfill the requirement designated in this section. 
 
   - **SECTION 3.** Each semester, the Senate shall elect an Executive Senator as a liaison between the Senate and the Executive Office.
