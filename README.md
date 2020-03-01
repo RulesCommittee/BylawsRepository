@@ -451,6 +451,7 @@
       - (vi) Amendment procedures
 
       - (vii) Statement of non-exclusivity
+      -(viii) Request to be chartered (if applicable).
 
     - (b) Submit to the Senate a written statements of fifteen Union members who wish to join the club describing why they wish to join the club and why they believe the club will benefit the Brandeis community.
 
@@ -458,13 +459,13 @@
 
     - (d) Attend a meeting of the Club Support Committee to discuss the merits of their club and to discuss preparation for accreditation.
 
-    - (e) Hold a club meeting that is attended by at least ten students in addition to at least one senator who will observe proceedings. This meeting must occur prior to the Senate meeting at which the leaders will present their club.
+    - (e) Hold a club meeting that is attended by at least ten students in addition to at least one senator or non-senate club support commitee member who will observe proceedings. This meeting must occur prior to the Senate meeting at which the leaders will present their club.
 
     - (f) Submit to the Senate a list of the initial E-board members with each member's respective position and Brandeis email attached.
 
     - (g) After meeting all of the other requirements listed in these bylaws, prospective clubs must present their case for accreditation in front of the Senate, and must receive the Senate's approval, in order to become a probationary club. Representatives of the prospective club must step outside while the Senate votes on its accreditation as a probationary club.
 
-  - **SECTION 4.** Any club which excludes members of the undergraduate student body from joining or participating, whether by an audition process or by any other means, is ineligible to become or remain a chartered club; furthermore, any club which duplicates the purpose or goals of an existing academic department or other campus resource in terms of operations, impact, and student appeal is ineligible to become or remain a chartered club; otherwise, clubs shall have the right to become or remain chartered clubs, so long as they remain accredited.
+  - **SECTION 4.** Any club which duplicates the purpose or goals of an existing academic department or other campus resource in terms of operations, impact, and student appeal is ineligible to become or remain a chartered club; otherwise, clubs shall have the right to become or remain chartered clubs, so long as they remain accredited.
 
     - (a) As part of granting accreditation to a prospective club, the Senate much determine and specify whether a club is to become a chartered probationary club or an unchartered probationary one.
 
@@ -484,7 +485,7 @@
 
     - (b) Paying salaries, wages, or stipends to Brandeis students unless approved otherwise at the discretion of the Treasurer.
 
-  - **SECTION 7.** Clubs are responsible for the following:
+  - **SECTION 7.** Clubs are responsible for complying with the following annual requirements and policies:
 
     - (a) Submitting a copy of the Club's Constitution to the Union Secretary upon request.
 
