@@ -498,9 +498,14 @@
 
     - (b) Complying with yearly renewal requirements, as is prescribed by the Student Union Secretary.
 
-      - (i) The deadline for the Anti-hazing/Club Renewal Form shall be 40 academic days from the beginning of the academic year.
+      - (i) The deadline for the Anti-hazing/Club Renewal Form shall be 40 academic days from the beginning of the academic year. Failure to submit the document shall result in de-chartering pursuant to a simple majority vote of the Senate and/or the inability to use University facilities and Union Resources
 
     - (c) Complying with the Student Union Advertising Policy, as is prescribed by the Student Union Secretary.
+    
+    - (d) Clubs shall update their Presence pages with most recent Senate approved version of their constitution
+   
+   - (e) Clubs shall update their Presence rosters
+
 
   - **SECTION 8.** The following shall be the relevant requirements for officers in clubs:
 
@@ -512,7 +517,7 @@
 
     - (d) All officers must be students enrolled in the undergraduate program or the Myra Kraft Transitional Year Program at Brandeis University.
 
-    - (e) All Officers must complete Bystander Training or a Diversity, Equity, and Inclusion Training once annually as recorded by the Office of Prevention Services and the Office of Diversity, Equity, & Inclusion. Failure to comply will result in club de-chartering and de-recognition with the exception of the 2018-2019 academic year.
+    - (e) All Officers must complete Bystander Training and Diversity, Equity, and Inclusion Training once annually as recorded by the Office of Prevention Services and the Office of Diversity, Equity, & Inclusion. Two Club Officers must also attend Budgeting, Recruitment, Event Planning and General Student Activities trainings. Failure to comply will result in club de-chartering and de-recognition.
     
     - (f) The Senate may, by majority vote, mandate that a particular Club Officer report before the Senate.
 
@@ -641,7 +646,16 @@
       - (v) Networking with other universities and off-campus organizations
       - (vi) Any additional club-related issues that arise
       
-    - (e) Club leaders shall specify the roles and responsibilities of their respective consultants in a formal contract. These roles and responsibilities shall fall within the constraints of parts (a) through (d). 
+    - (e) Club leaders shall specify the roles and responsibilities of their respective consultants in a formal contract to be re-evaluated yearly. These roles and responsibilities shall fall within the constraints of parts (a) through (d)
+    
+    **Section 14** Chartered Clubs
+     
+     -(a)Chartered Clubs shall maintain ten active members each academic year to remain chartered. Failure to maintain ten active members shall result in that club being placed on probationary chartered status. During probationary chartered status, the club is bound by stipulations set out in Section 10 of these Bylaws.
+	
+  (i) The definition of an active member shall be determined by a club’s constitution
+
+    
+    
   
 <br>
 
