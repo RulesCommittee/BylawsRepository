@@ -147,6 +147,11 @@
 # ❧ ARTICLE V: SENATE MEETING PROCEDURE
 
   - **SECTION 1.** The Parliamentary rules, as set out in the most recent edition of Robert's Rules of Order, shall govern the conduct of all official meetings of the Student Union Senate, except as may otherwise be provided for in the Union Constitution and these Bylaws.
+  
+      (a) for the purposes of the Senate, quorum will be defined as more than 50% of the voting body present.
+      
+      (b) If there are less than 18 Seats currently held, the quorum will be defined as 10 Senators of the voting body present.   
+
 
   - **SECTION 2.** Meetings of the Senate shall be held at least once every ten academic days during the Spring and Fall Semesters.
 
