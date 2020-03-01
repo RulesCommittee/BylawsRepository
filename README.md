@@ -451,6 +451,7 @@
       - (vi) Amendment procedures
 
       - (vii) Statement of non-exclusivity
+      
       -(viii) Request to be chartered (if applicable).
 
     - (b) Submit to the Senate a written statements of fifteen Union members who wish to join the club describing why they wish to join the club and why they believe the club will benefit the Brandeis community.
