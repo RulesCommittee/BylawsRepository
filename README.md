@@ -234,9 +234,9 @@
 
     - (c) All Senate Chairs may be re-appointed.
 
-    - (d) Senate Chairs for the Fall semester shall be appointed preceding inaugurations in the Spring and shall take office prior to summer recess.
+    - (d) Senate Chairs for the Fall semester shall be appointed.
 
-    - (e) Senate Chairs for the Spring semester shall be appointed in the Fall semester and take office after Finals conclude.
+    - (e) Senate Chairs for the Spring semester shall be appointed in the Fall semester.
 
     - (f) Senate Chairs retain the right to appoint non-senate committee members at their own discretion.
 
