@@ -236,7 +236,7 @@
 
     - (d) Senate Chairs for the Fall semester shall be appointed.
 
-    - (e) Senate Chairs for the Spring semester shall be appointed in the Fall semester.
+    - (e) Senate Chairs for the Spring semester shall be appointed.
 
     - (f) Senate Chairs retain the right to appoint non-senate committee members at their own discretion.
 
